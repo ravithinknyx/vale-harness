@@ -1,4 +1,4 @@
-ARG FROM=ubuntu22.04-base:v1.0.0
+ARG FROM=ubuntu:22.04
 FROM ${FROM}
 #FROM ubuntu:18.04
 
