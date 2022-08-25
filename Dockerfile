@@ -1,6 +1,5 @@
 ARG FROM=ubuntu:22.04
 FROM ${FROM}
-#FROM ubuntu:18.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG VALE_VERSION="2.20.1"
